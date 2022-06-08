@@ -60,8 +60,7 @@ Hi, I am a Senior Full Stack Developer, Back end Heavy Guy with 7+ years of expe
 ### Back end Developing with Node.js(Express.js, Nest.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel)
 <br />
 
-### Building Responsive and Beautiful UI with CSS Frameworks
-###  such as Bootstrap, Tailwind CSS, Bulma, Materialize, Skeleton
+### Building Responsive and Beautiful UI with CSS Frameworks such as Bootstrap, Tailwind CSS, Bulma and so on
 <br />  
 
 </div>
