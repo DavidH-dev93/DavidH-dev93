@@ -51,7 +51,7 @@ Hi, I am a Senior Full Stack Developer, Back end Heavy Guy with 7+ years of expe
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### Full Stack Development
+### *** Full Stack Development ***
 <br />
 
 ### Front end Developing with Modern Front end Frameworks like React, Vue, Next, Nuxt, Gatsby, Blitz, 
@@ -60,7 +60,8 @@ Hi, I am a Senior Full Stack Developer, Back end Heavy Guy with 7+ years of expe
 ### Back end Developing with Node.js(Express.js, Nest.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel)
 <br />
 
-### Building Responsive and Beautiful UI with CSS Frameworks like Bootstrap, Tailwind CSS, Bulma, Materialize, Skeleton
+### Building Responsive and Beautiful UI with CSS Frameworks
+###  such as Bootstrap, Tailwind CSS, Bulma, Materialize, Skeleton
 <br />  
 
 </div>
