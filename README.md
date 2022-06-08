@@ -1,8 +1,8 @@
 ### Senior Full Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Jajabenit250" /> </p>
 
-Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Solidity, Rust, Ethereum, React JS, TypeScript, Vue JS Angluar etc. I've started my freelancing career in 2021 and succeeding it until now. I've done multiple projects on website and web app development including DApps. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
+Hi, I am a Senior Full Stack Developer, Back end Heavy Guy with 7+ years of experience in web development using modern JavaScript Frameworks such as React, Vue, Next, Nuxt, Gatsby for front-end and Node.js(Express.js, Nest.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel) for back-end. I've started my freelancing career in 2021 and succeeding it until now. I've done multiple projects on website and web app development including Booking Service, Shopping Service, Uber like Service. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
 
-####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Three.js-blue) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue)
+#### <p align="center">       ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Python-blue)  ![](https://img.shields.io/badge/Ruby_on_Rails-blue)  ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Three.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby.js-blue) ![](https://img.shields.io/badge/Blitz.js-blue) ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/Laravel-blue) </p>
 
 
 <h1 align="center"></h1>
@@ -51,16 +51,16 @@ Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on differe
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### Online Website building and Mobile app
+### Full Stack Development
 <br />
 
-### Best Front-end Developing with Morder Front-end Frameworks
+### Front end Developing with Modern Front end Frameworks like React, Vue, Next, Nuxt, Gatsby, Blitz, 
 <br />
 
-### MERN, MEAN, Laravel&Vue Full-Stack Web Developing
+### Back end Developing with Node.js(Express.js, Nest.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel)
 <br />
 
-### Perfect Web Scraping, Bot building
+### Building Responsive and Beautiful UI with CSS Frameworks like Bootstrap, Tailwind CSS, Bulma, Materialize, Skeleton
 <br />  
 
 </div>
